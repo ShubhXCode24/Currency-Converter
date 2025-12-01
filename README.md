@@ -27,7 +27,7 @@ A simple and user-friendly currency converter built using HTML, CSS, and JavaScr
 1. User enters the amount  
 2. Chooses **From** and **To** currencies  
 3. App fetches latest conversion rate  
-4. Final converted value screen par instantly show hota hai  
-5. Country flags currency ke according auto-change ho jaati hain  
+4. The final converted value is displayed instantly on the screen
+5. Country flags automatically update according to the selected currency  
 
 ---
